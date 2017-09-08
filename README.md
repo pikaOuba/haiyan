@@ -6,11 +6,15 @@ react spa to show repo name etc
 npm install -g cnpm --registry=https://registry.npm.taobao.org 
 ## npm run dev  运行项目  
 ## npm run build  项目打包
-## 主要的目录解说
-├─haiyan                                 // 页面主文件
+```
+项目结构
+
+
+├─haiyan                                 // 页面主文件
 |  
 | 
 |  |
 |  |--src|-css   //样式文件
 |  |     |-images              |-components //组件
 |  |     |-js //主要页面文件| | |-root //路由
+```
