@@ -1,0 +1,15 @@
+
+header{
+    width: 1200px;
+    margin: 20px auto!important;
+}
+input{margin-right: 20px!important;}
+table{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 20px;
+}
+img {
+    border-radius: 50%;
+}
